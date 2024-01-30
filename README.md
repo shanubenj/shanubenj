@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me ...benanu2013@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...Her/She
 - ⚡ Fun fact: ...
 
 <!---
